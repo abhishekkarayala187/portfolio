@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Hello there, It's Abhishek Karayala
 
-You can use the [editor on GitHub](https://github.com/abhishekkarayala187/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have been working on some of the React native since two years and I have fallen in love with the React and Mern stack. I usually do competative programming for fun. I'm interested in software development and I have choosen the journey of a full-stack developer.
 
-### Markdown
+This website's aim is to show my skills through my projects and present my projects to the public as well as Hiring Companies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project 1: [Restaurant Website with ASP.Net](https://github.com/abhishekkarayala187/Restaurant_Website_ASP)
 
-```markdown
-Syntax highlighted code block
+An interactive Restaurant Website using HTML, CSS, C#, Javascript, and ASP.Net framework. Sessions for Login, Registration, Payments(Credit/Debit Cards, Paypal), SQL- servers and theme impementations. Note: This project is only educational and learning purpose not for commercial use all the images and names of indivisual restaurants used in this project belong to thier respective owner.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhishekkarayala187/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
