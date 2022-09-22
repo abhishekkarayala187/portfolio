@@ -1,7 +1,6 @@
 #theme: jekyll-theme-cayman
 # _config.yml
 
-plugins:
-   - jekyll-remote-theme
+plugins: jekyll-remote-theme
 
  remote_theme: slee981/jekyll-theme-cadre
