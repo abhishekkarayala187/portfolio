@@ -1,2 +1,5 @@
 #theme: jekyll-theme-cayman
-remote-theme: slee981/jekyll-theme-cadre
+plugins:
+   - jekyll-remote-theme
+
+ remote_theme: slee981/jekyll-theme-cadre
