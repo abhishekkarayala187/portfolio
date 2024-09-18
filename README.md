@@ -12,7 +12,7 @@ I am a Full Stack Developer currently pursuing a Master's in Computer Science at
 
 ---
 
-## Key Projects
+## Experience
 
 ### [**Grower's Portal**](https://github.com/Grower-Portal)  
 *Full Stack Developer - Southern University and A&M College (October 2023 - Present)*  
